@@ -4,7 +4,7 @@ Analyzing the wav files found in the QRID Patient folders to see which files are
 Differences b/w code:
 QRID_directory_localpath10wav.py: creates 'summary_report_white_noise.xlsx'; facing issues
 
-QRID_directory_wav_amplitudes.py: creates 'QRIDwavampsummary.csv'
+QRID_directory_wav_amplitudes.py: creates 'QRIDwavampsummary.csv' --> SHOULD BE ENDGAME FILE
 
 QRID_directory_wav_v2.py: creates 'QRIDwavsummary_SR.csv'; uses SpeechRecognition; NOT ACCURATE because it says most content is 'White Noise' when it truly isn't
 
